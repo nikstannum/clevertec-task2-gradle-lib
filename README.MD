@@ -1,0 +1,1 @@
+#### This is a simple library with one class and one method
